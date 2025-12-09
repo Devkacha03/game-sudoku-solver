@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Sudoku">
+  <rect width="100%" height="100%" rx="6" fill="#0f172a"/>
+  <g transform="translate(6,6)" stroke="#fff" stroke-width="1.6" fill="none">
+    <rect width="20" height="20" rx="2"/>
+    <line x1="6.666" y1="0" x2="6.666" y2="20"/>
+    <line x1="13.333" y1="0" x2="13.333" y2="20"/>
+    <line x1="0" y1="6.666" x2="20" y2="6.666"/>
+    <line x1="0" y1="13.333" x2="20" y2="13.333"/>
+  </g>
+</svg>
